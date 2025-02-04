@@ -20,27 +20,17 @@ Passionate about building robust and scalable solutions, specializing in **Ruby 
 
 ### 💼 Professional Experience
 
-#### **Software Engineer**  
-**ComunidadFeliz.com** · Remote · May 2024 - Present  
+#### **Software Engineer** on **ComunidadFeliz.com** · Remote · May 2024 - Present  
 - Currently working as a Software Engineer, focusing on building scalable and efficient solutions using **Ruby on Rails** and **React.js**.
 
-#### **Software Development Engineer**  
-**GoJom (YC W22)** · Feb 2022 - Mar 2024  
+
+#### **Software Development Engineer** on **GoJom (YC W22)** · Feb 2022 - Mar 2024  
 - As a **Backend Developer**, I contributed to the evolution of a property valuation system using **TypeScript**, **AWS Lambda**, and **Serverless Framework**, achieving significant improvements in scalability and efficiency.
 - As a **DevOps Engineer**, I led cloud infrastructure management on **AWS** and **Azure**, optimizing permissions and roles, and implementing strategies to decouple services, enhancing security and flexibility.
 
-#### **Software Developer**  
-**Eterniasoft** · On-site (Peru) · Jan 2018 - Jan 2022  
+#### **Software Developer** on **Eterniasoft** · On-site (Peru) · Jan 2018 - Jan 2022  
 - As a **FullStack Developer**, I optimized third-party interactions by developing a robust webhook system and integrating with **Sendpulse** for email marketing.
 - Led the frontend evolution using **Vue.js** and **Atomic Design**, adopting **Tailwind CSS** for faster and more consistent UI development.
-
-#### **Content Writer**  
-**24h Aprendiendo** · Jul 2018 - Jan 2020  
-- Created technical and educational content, improving the platform's engagement and user experience.
-
-#### **Web Developer**  
-**JuergON** · On-site (Peru) · Aug 2016 - Dec 2017  
-- Developed and maintained web applications, gaining foundational experience in web development.
 
 ---
 
